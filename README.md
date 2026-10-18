@@ -8,7 +8,7 @@
 ## 📁 폴더 구조
 
 ```
-B1-3-nocode-automation/
+codyssey-b1-3-nocode-automation/
 ├── README.md
 ├── project1/          # 자동화 도구 비교 구현 (Make vs Zapier)
 │   ├── report.md
