@@ -10,11 +10,13 @@
 ```
 codyssey-b1-3-nocode-automation/
 ├── README.md
-├── project1/          # 자동화 도구 비교 구현 (Make vs Zapier)
-│   ├── report.md
+├── project1/                  # 자동화 도구 비교 구현 (Make vs Zapier)
+│   ├── 비교_분석_보고서.md
 │   └── screenshots/
-└── project2/          # 자유 주제 자동화 — 뉴스레터 토픽 알림
-    ├── report.md
+│       ├── make/
+│       └── zapier/
+└── project2/                  # 자유 주제 자동화 — 뉴스레터 토픽 알림
+    ├── 워크플로우_설계_문서.md
     └── screenshots/
 ```
 
